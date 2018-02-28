@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidSensor</string>
+    <string name="data_info">所选传感器的信息及数据</string>
+    <string name="selected_sensor_is">所选传感器：</string>
+    <string name="selected_sensor_data_is">所选传感器数据：</string>
+    <string name="clear">清除数据</string>
+</resources>
